@@ -5,9 +5,9 @@ import gradio as gr
 # 1. Whisper 모델 로드 (Speech-to-Text)
 speech_to_text_pipe = pipeline(model="openai/whisper-large-v3")
 
-# 2. KoBART 모델 로드 (Text-to-Text)
-model = AutoModelForSeq2SeqLM.from_pretrained('/Users/parkjunhui/Desktop/MachineLearning/project/di_to_st_comb/model_tokenizer')
-tokenizer = AutoTokenizer.from_pretrained('/Users/parkjunhui/Desktop/MachineLearning/project/di_to_st_comb/model_tokenizer')
+# 2. KoBART 모델 로드 (Hugging Face)
+model = AutoModelForSeq2SeqLM.from_pretrained('easyeasy/kobart-snu-bigfin-9th')
+tokenizer = AutoTokenizer.from_pretrained('easyeasy/kobart-snu-bigfin-9th')
 
 # 3. Google Cloud Text-to-Speech 클라이언트 초기화 (Text-to-Speech)
 text_to_speech_client = texttospeech.TextToSpeechClient()
