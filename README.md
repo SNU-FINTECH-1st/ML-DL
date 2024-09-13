@@ -65,9 +65,9 @@
       <td>- 모델 합병 <br> 데이터전처리 <br> KOBART  </td>
       <td>- KOBART <br> FineTuning </td>
       <td>- TTS Model <br> Research </td>
-      <td>- 발표 자료 제작 <br> WHISPER</td>
+      <td>- 발표 자료 제작 <br>- WHISPER</td>
       <td>- TTS Model <br> Google cloud api </td>
-      <td>- 발표 자료 제작 <br> WHISPER</td>
+      <td>- 발표 자료 제작 <br>- WHISPER</td>
     </tr>
   </tbody>
 </table>
