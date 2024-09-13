@@ -1,15 +1,13 @@
 # ML-DL
 **이 모델 사투리 마이 묵었다 아이가**
-
+> WORK FLOW : 사투리 TTS -> Translate -> STT 표준어
 ---
 
 * 모델 돌리기전 필수사항!
   * 꼭 google cloud sdk를 먼저 설치해야함.
   * google cloud token은 유료임을 주의!
   * 무료로 하고 싶으면 다른 tts 사용하시면 됩니다.
-
-
-* Fine-Tuning KoBART 모델 링크
+    
 
 * fine-tuning된 KoBART 모델 (Huggingface)
 
