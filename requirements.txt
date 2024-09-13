@@ -1,0 +1,15 @@
+# requirements.txt
+	1.	transformers for loading and using models like Whisper and KoBART.
+	2.	google-cloud-texttospeech for Google’s Text-to-Speech API.
+	3.	gradio for building user interfaces.
+
+
+* 데이터는 AIHUB에 있는 음성파일 및 JSON파일을 이용하였습니다.
+	- 중·노년층 한국어 방언 데이터(경상도)
+
+(https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71517)
+
+
+* GitHub 주소
+
+https://github.com/SNU-FINTECH-1st/ML-DL
