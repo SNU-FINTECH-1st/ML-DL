@@ -8,7 +8,11 @@
   * google cloud token은 유료임을 주의!
   * 무료로 하고 싶으면 다른 tts 사용하시면 됩니다.
 
+
+* KoBART 모델 링크
+=======
 * fine-tuning된 KoBART 모델 (Huggingface)
+
   * https://huggingface.co/easyeasy/kobart-snu-bigfin-9th
 
 ## 사용된 데이터
@@ -71,4 +75,6 @@
 </table>
 
 ## DEMO VIEW
+
 <img width="1668" alt="DANDI실행_사진" src="https://github.com/user-attachments/assets/4d80fa21-5d59-4690-a845-3c9bb0111f2c">
+
