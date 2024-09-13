@@ -9,8 +9,8 @@
   * 무료로 하고 싶으면 다른 tts 사용하시면 됩니다.
 
 
-* KoBART 모델 링크
-=======
+* Fine-Tuning KoBART 모델 링크
+
 * fine-tuning된 KoBART 모델 (Huggingface)
 
   * https://huggingface.co/easyeasy/kobart-snu-bigfin-9th
