@@ -10,4 +10,5 @@
 
 ## DEMO VIEW
 
-![Uploading DANDI실행_사진.png…]()
+
+<img width="1668" alt="DANDI실행_사진" src="https://github.com/user-attachments/assets/4d80fa21-5d59-4690-a845-3c9bb0111f2c">
